@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # facedetection
 >>>>>>> 5686632a01c94f903144a0e9508f1b31944b7bf1
+=======
+# facedetection
+>>>>>>> 2d747b780132a79440bb00409e3941d1434a2aa5
